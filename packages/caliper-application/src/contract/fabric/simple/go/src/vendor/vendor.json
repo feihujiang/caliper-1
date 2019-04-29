@@ -1,0 +1,18 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "BbOHZUjllmyNpxCliLKdkbcNzXE=",
+			"path": "github.com/inancgumus/myhttp",
+			"revision": "475b1e2e105a529c779debbeead3ae9ec924dbdb",
+			"revisionTime": "2018-05-06T18:25:10Z"
+		},
+		{
+			"checksumSHA1": "I7hloldMJZTqUx6hbVDp5nk9fZQ=",
+			"path": "github.com/pkg/errors",
+			"revision": "27936f6d90f9c8e1145f11ed52ffffbfdb9e0af7",
+			"revisionTime": "2019-02-27T00:00:51Z"
+		}
+	]
+}
